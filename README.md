@@ -15,3 +15,5 @@ By completing this project, I will demonstrate my understanding of:
 - Git and GitHub workflows
 
 Built entirely on an Android phone using Acode and Termux.
+
+## Project completed on Android 📱
